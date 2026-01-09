@@ -1,0 +1,7 @@
+{
+  "name": "A TRBALHAR 2026",
+  "description": "Imatec",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
